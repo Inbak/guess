@@ -1,0 +1,63 @@
+.cont
+{
+    border: none;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    margin-top: 200px;
+}
+.bdy{
+    background-image: url("https://i.pinimg.com/736x/6b/fe/e2/6bfee239186bbd6a66f7b6c395502098.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+#num
+{
+    margin-top: 100px;
+    border: none;
+    height: 20px;
+    background-color: gray;
+    border-radius: 2px;
+}
+
+#btn{
+    margin-top: 10px;
+    height: 25px;
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 2px;
+    font-family:monospace;
+    font-weight: bold;
+    color: green;
+    font-size: 1.01rem; 
+}
+#btn:hover
+{
+    background-color: green;
+    transform: scale(1.1);
+    color: whitesmoke;
+    transition-duration: 0.3s;
+}
+#ans{
+    font-size: 1.1rem;
+    font-family: cursive;
+    font-weight: 900; 
+}
+#life
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+}
+.cons{
+    margin-top: 250px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3rem;
+    font-weight: bolder;
+    margin-left: 0px;
+    color: aliceblue;
+}
+.bod{
+    background-image: url("https://i.pinimg.com/originals/2f/d1/73/2fd173d02f2c2e9b868de6fe70c2e747.jpg");;
+    background-attachment: fixed;
+    background-size: cover;
+}
